@@ -1,3 +1,24 @@
-h1{
+h1#title{
     text-shadow: 5px 5px 8px;
+    color: whitesmoke; font-size: 40px;
+}
+
+h1#titleaboutme{
+    text-shadow: 5px 5px 8px;
+}
+
+#header{
+    
+ background-color: rgb(31, 29, 29); text-align: center;
+
+ position:fixed; top: 0; left: 0; width: 100%;
+
+}
+
+#footer{
+
+position: fixed; bottom: 0; left: 0; width: 100%;
+
+ background-color: rgb(31, 29, 29); text-align: center; color: white;
+
 }
