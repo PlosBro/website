@@ -11,14 +11,58 @@ h1#titleaboutme{
     
  background-color: rgb(31, 29, 29); text-align: center;
 
- position:fixed; top: 0; left: 0; width: 100%;
+ position:sticky; top: 0; left: 0; width: 100%; margin-top: 0px;
 
 }
 
 #footer{
 
-position: fixed; bottom: 0; left: 0; width: 100%;
-
- background-color: rgb(31, 29, 29); text-align: center; color: white;
+position: relative; font-size: 10px; 
+background-color: rgb(31, 29, 29); text-align: center; color: white;
 
 }
+
+.body{
+ 
+                        
+}
+
+#bodyindex{
+       background-color: black;
+
+}
+#bodygallery{
+
+}
+#bodyaboutme{
+
+}
+#bodycontactme{
+
+}
+#bodygenealogy{
+
+}
+
+
+
+
+
+
+/*.Home{
+    margin-top: 100px;
+}
+
+.Gallery{
+    margin-top: 100px;
+}
+
+.Aboutme{
+    margin-top: 1000px;
+}
+
+.Contactme{
+    margin-top: 100px;
+}
+
+*/
