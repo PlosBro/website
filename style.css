@@ -24,16 +24,36 @@ background-color: rgb(31, 29, 29); text-align: center; color: white;
 
 .body{
  
-                        
+
 }
 
 #bodyindex{
-       background-color: black;
+
+background-image: url(images/camera.jpeg); 
+background-repeat: no-repeat;
+background-position: center;   
+background-attachment: fixed;
+background-size: cover;
+backdrop-filter: blur(10px);
 
 }
 #bodygallery{
 
+
+
+background-image: url(images/camera.jpeg); 
+background-repeat: no-repeat;
+background-position: center;   
+background-attachment: fixed;
+background-size: cover;
+backdrop-filter: blur(10px);
+
 }
+
+    
+
+
+
 #bodyaboutme{
 
 }
@@ -44,7 +64,18 @@ background-color: rgb(31, 29, 29); text-align: center; color: white;
 
 }
 
+#gallerybutton{
+    background-color: white; 
+    border-radius: 25px;
+    color: black ;
+    font-size: large;
+}
 
+#gallerybutton:hover{
+
+    font-size: 20px;
+
+}
 
 
 
